@@ -1,135 +1,83 @@
-
-<!doctype html>
+<!DOCTYPE html>
 <html>
     <head>
-        <title>windows</title>
+        <html lang="en">
         <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta property="og:image" content="/assets/io/favicon.png" />
-        <meta property="og:title" content="Viren Mohindra | Web Developer" />
-        <meta property="og:description" content="Viren Mohindra is a student at New York University. Give him a shout out if you want a website or someone to shoot your new film."/>
-        <meta name="Viren Mohindra | Web Developer and Web Designer" content="">
-        <meta name="author" content="Viren Mohindra">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Viren Mohindra | Web Designer</title>
+        <meta name="description" content="Studies at New York University. Shout out for a website or a video." />
+        <!-- Twitter Card data -->
+        <meta name="twitter:card" value="Studies at New York University. Shout out for a website or a video.">
 
-        <title>Viren Mohindra</title>
+        <!-- Open Graph data -->
+        <meta property="og:title" content="Viren Mohindra" />
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="http://www.virenmohindra.me/" />
+        <meta property="og:image" content="http://virenmohindra.me/image.jpg" />
+        <meta property="og:description" content="Studies at New York University. Shout out for a website or a video." />
 
-        <!-- Latest compiled and minified CSS -->
-        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
-
-        <!-- Custom styles for this template -->
-        <link href="assets/css/soon.css" rel="stylesheet">
-        <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
-        <!--[if lt IE 9]>
-          <script src="assets/js/html5shiv.js"></script>
-          <script src="assets/js/respond.min.js"></script>
-        <![endif]-->
-            <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+        <script src="https://code.jquery.com/jquery-2.1.3.min.js"></script>
         <script src="js/jquery.windows.js"></script>
         <link rel="stylesheet" href="css/main.css">
-    <script>
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        <script>
+          (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+          (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+          })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-      ga('create', 'UA-31897403-4', 'auto');
-      ga('send', 'pageview');
-
-    </script>
+          ga('create', 'UA-31897403-4', 'auto');
+          ga('send', 'pageview');
+        </script>
     </head>
+  
     <body>
-
-        <!-- NOTE: each "window" is a section element with class .window -->
-
         <section id="0" class="window">
             <div class="content">
-                    <h1>windows</h1>
-                    <h2>a handy, loosely-coupled jQuery plugin for full-screen scrolling windows</h2>
+                    <h1></h1>
+                    <h2></h2>
             </div>
         </section>
 
         <section id="1" class="window">
             <div class="content">
-                <h2>
-                project root<br/>
-                | -- css<br/>
-                | -- | -- main.css (compiled)<br/>
-                | -- js<br/>
-                | -- | -- <span class="highlight">jquery.windows.js</span><br/>
-                | -- scss<br/>
-                | -- | -- <span class="highlight">main.scss</span><br/>
-                | -- <span class="highlight">index.html</span>
-                </h2>
             </div>
         </section>
 
         <section id="2" class="window">
             <div class="content">
-                <h2>How it works</h2>
-                <div class="explanation">This is a light bootstrap that sets up:
-                    <ul>
-                        <li>- the basic SASS for sequential full screen windows</li>
-                        <li>- a jQuery plugin for managing their positions as the user scrolls</li>
-                    </ul>
-                    The plugin simply opens up a handy API for position management, provides callbacks, and will allow for window snapping.  No CSS is applied to the callee.
-                </div>
+                <h2></h2>
             </div>
         </section>
 
         <section id="3" class="window">
-            <pre>
-                $('.window').windows({
-                    snapping: true,
-                    snapSpeed: 500,
-                    snapInterval: 1100,
-                    onScroll: function(scrollPos){
-                        // scrollPos:Number
-                    },
-                    onSnapComplete: function($el){
-                        // after window ($el) snaps into place
-                    },
-                    onWindowEnter: function($el){
-                        // when new window ($el) enters viewport
-                    }
-                });
-            </pre>
+            <div class="content">
+                    <h1></h1>
+                    <h2></h2>
+            </div>
         </section>
 
         <section id="4" class="window">
             <div class="content">
-                <h1>api</h1>
-                <pre>
-                    // returns ratio 0-1
-                    $('.window:eq(0)').ratioVisible();
-
-                    // returns boolean of whether or not is visible on screen
-                    $('.window:eq(0)').isOnScreen();
-
-                    // get most visible window
-                    $('.window').getCurrentWindow();
-
-
-                </pre>
+                <h1></h1>
             </div>
         </section>
 
         <section id="5" class="window">
             <div class="content">
-                <a href="https://github.com/nick-jonas/nick-jonas.github.com/tree/master/windows" title="Download Me!" id="btn-wrap">
+                <a href="https://virenmohindra.me/resume.pdf" title="Download Me!" id="btn-wrap">
                     <span class="title">Download Me</span>
                     <div id="info">
                         <p>
-                            <strong>Version 0.0.1 /</strong>
+                            <strong>Version 1.0 /</strong>
                             <span>1 MB</span>
                         </p>
                     </div>
                 </a>
-
             </div>
         </section>
 
         <script>
-
             $(document).ready(function(){
 
                 var $windows = $('.window');
@@ -142,9 +90,7 @@
                     onSnapComplete: function($el){},
                     onWindowEnter: function($el){}
                 });
-
             });
         </script>
-
     </body>
 </html>
