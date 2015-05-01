@@ -1,8 +1,0 @@
-/*!
- * windows: a handy, loosely-coupled jQuery plugin for full-screen scrolling windows.
- * Version: 0.0.1
- * Original author: @nick-jonas
- * Website: http://www.workofjonas.com
- * Licensed under the MIT license
- */
-!function(n,t){function e(t,e){this.element=t,a=a=n.extend({},i,e),this._defaults=i,this._name=o,u.push(t);var r=n(t).isOnScreen();n(t).data("onScreen",r),r&&a.onWindowEnter(n(t))}var o="windows",i={snapping:!0,snapSpeed:500,snapInterval:1100,onScroll:function(){},onSnapComplete:function(){},onWindowEnter:function(){}},a={},r=n(t),s=0,c=null,u=[];n.fn.ratioVisible=function(){var n=r.scrollTop();if(!this.isOnScreen())return 0;var t=this.offset(),e=t.top-n,o=r.height(),i=(e+o)/o;return i>1&&(i=1-(i-1)),i},n.fn.isOnScreen=function(){var n=r.scrollTop(),t=r.height(),e=this.offset(),o=e.top-n;return o>=t||-t>=o?!1:!0};var l=n.fn.getCurrentWindow=function(){var t=0,e=u[0];return n.each(u,function(){var o=n(this).ratioVisible();Math.abs(o)>Math.abs(t)&&(e=n(this),t=o)}),n(e)},f=function(){s=r.scrollTop(),p(),a.onScroll(s),n.each(u,function(){var t=n(this),e=t.isOnScreen();e&&(t.data("onScreen")||a.onWindowEnter(t)),t.data("onScreen",e)})},h=function(){p()},p=function(){c&&clearTimeout(c),a.snapping&&(c=setTimeout(function(){var t=l(),e=t.offset().top,o=!1;n("html:not(:animated),body:not(:animated)").animate({scrollTop:e},a.snapSpeed,function(){o||(c&&clearTimeout(c),c=null,o=!0,a.onSnapComplete(t))})},a.snapInterval))};n.fn[o]=function(t){return r.scroll(f),r.resize(h),this.each(function(){n.data(this,"plugin_"+o)||n.data(this,"plugin_"+o,new e(this,t))})}}(jQuery,window,document);
