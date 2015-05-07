@@ -947,11 +947,13 @@ header.section-header {
 	-webkit-transition: all 0.7s; /* For Safari 3.1 to 6.0 */
     transition: all 0.7s;
 }
+/*
 .member-container:hover .member-content {
-	-ms-transform: translateY( -50% ); /* IE 9 */
-    -webkit-transform: translateY( -50% ); /* Chrome, Safari, Opera */
+    -ms-transform: translateY( -50% ); 
+    -webkit-transform: translateY( -50% ); 
     transform: translateY( -50% );
 }
+*/
 .member-header {
 	border-bottom: 1px solid #00adf1;
 	margin-bottom: 40px;
