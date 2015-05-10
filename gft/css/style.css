@@ -58,7 +58,7 @@ body {
 a,
 a:hover,
 a:focus {
-    color: #21c2f8;
+    color: #cc0000;
     text-decoration: none;
     outline: none;
 }
@@ -308,7 +308,7 @@ h2 span {
     padding: 7px 10px;
 }
 #subscribe > button[type="submit"] {
-    background: none repeat scroll 0 0 #21c2f8;
+    background: none repeat scroll 0 0 #cc0000;
     border: 0 none;
     color: #ffffff;
     font-style: normal;
@@ -1803,7 +1803,7 @@ a.list-group-item:focus {
     padding: 10px 0;
 }
 .article-categories > h3 {
-    color: #21c2f8;
+    color: #cc0000;
     display: inline;
     font-size: 16px;
     margin: 0;
@@ -1875,7 +1875,7 @@ a.list-group-item:focus {
 }
 .author-bio {
     background: none repeat scroll 0 0 #f6f6f6;
-    border-left: 5px solid #21c2f8;
+    border-left: 5px solid #cc0000;
     margin-top: 30px;
     padding: 15px;
     overflow: hidden;
@@ -2145,7 +2145,7 @@ a.list-group-item:focus {
 .widget_popular_recent_tabs .nav-tabs li.active a {
     background: none repeat scroll 0 0 #ffffff;
     border: 0 none;
-    color: #21c2f8;
+    color: #cc0000;
 }
 .widget_popular_recent_tabs .nav-tabs li a {
     background: none repeat scroll 0 0 #ecf0f2;
@@ -2215,7 +2215,7 @@ a.list-group-item:focus {
     font-size: 18px;
 }
 .widget_social_icons li a:hover {
-    background: none repeat scroll 0 0 #21c2f8;
+    background: none repeat scroll 0 0 #cc0000;
     color: #ffffff;
 }
 
@@ -2238,7 +2238,7 @@ a.list-group-item:focus {
 }
 .widget_categories .cat-item:hover,
 .widget_categories li a:hover {
-    color: #21c2f8;
+    color: #cc0000;
 }
 
 
