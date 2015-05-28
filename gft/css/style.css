@@ -353,7 +353,8 @@ blockquote::before {
     color: #cc0000;
     content: "\"";
     font-family: open sans;
-    font-size: 200px;
+    font-size: 2
+    00px;
     font-style: italic;
     left: 15%;
     line-height: 200px;
@@ -838,8 +839,8 @@ header.section-header {
 	height: 80px;
 	background: #cc0000;
 	-ms-transform: rotate(45deg);
-	-webkit-transform: rotate(45deg);
-	transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+    transform: rotate(45deg);
 	margin: 0 auto;
 	position: relative;
 	top: 25px;
@@ -919,13 +920,13 @@ header.section-header {
 	position: relative;
 }
 .testimonial-author {
-    color: #cc0000;
-    font-size: 20px;
+    color: #ffffff;
+    font-size: 30px;
     font-weight: 500;
     margin-top: 10px;
 }
 .testimonial-job {
-    color: #9aa7af;
+    color: #ffffff;
     font-size: 13px;
     font-weight: 400;
 }
