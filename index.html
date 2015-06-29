@@ -30,9 +30,20 @@
     <!--[if lt IE 9]>
     <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
-    
+    <script language="javascript">
+document.onmousedown=disableclick;
+status="Right Click Disabled";
+Function disableclick(event)
+{
+  if(event.button==2)
+   {
+     alert(status);
+     return false;    
+   }
+}
+</script>
 </head>
-    <body>
+    <body oncontextmenu="return false">
         <!-- Container -->
         <section id="container">
         
