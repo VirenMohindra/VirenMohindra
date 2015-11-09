@@ -5,9 +5,9 @@ Maintainer: Viren Mohindra <you@example.com>
 Depends: com.anemonetheming.anemone
 Filename: ./debs//com.virenmohindra.vmtheme_1.0_iphoneos-arm.deb
 Size: 20170268
-MD5sum: ed3c824c302c3fc287af3f4513e1a5ba
-SHA1: 0f2922ecafb0323549d0449bb6699a6e215915cb
-SHA256: 620d1f3881556f00526a06004cb003354cf22f9fb4f317ee3879d8483eb2a9cc
+MD5sum: e15d22f44c36f11c23d08d9f6f617949
+SHA1: 5124dad567b659ec83bbca2b51862881d3a762b7
+SHA256: 9bc6fcc20187e8b610c360653ccf17fa0d14cb4d5c830b424a0ff79b028e8e59
 Section: Themes (Springboard)
 Description: a simple winterboard theme
 Author: Viren Mohindra <viren.mohindra@gmail.com>
