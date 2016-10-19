@@ -1,0 +1,9 @@
+Package: io.github.virenmohindra.soup
+Name: Soup - Springy BootLogo
+Depends: com.aditkamath.springy
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Animated respring theme for Springy
+Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
+Author: Viren Mohindra <viren.mohindra@gmail.com>
+Section: Addons (Springy)
