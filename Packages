@@ -4,10 +4,10 @@ Architecture: iphoneos-arm
 Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
 Depends: com.aditkamath.springy
 Filename: ./debs/io.github.virenmohindra.sploosh_1.0_iphoneos-arm.deb
-Size: 2312560
-MD5sum: b318d08d95859905387b666621930fa7
-SHA1: 75dc428367beb36a6a22584c1b1f3b4dc3d7d414
-SHA256: 166538fac20975da5989c3e1a20976a463781307147501992c19c00ea19c5d96
+Size: 2311330
+MD5sum: fe514f126bd764940eeb066768d854d8
+SHA1: e5f644f31ba027c8dfc26074cb8ddedc9721df40
+SHA256: 8b8a5799f7100be4eb74ee2024c7bcab4b39490bc6ca7b0230acf03be281340d
 Section: Addons (Springy)
 Description: Animated respring theme for Springy
 Author: Viren Mohindra <viren.mohindra@gmail.com>
