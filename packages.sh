@@ -1,2 +1,2 @@
 #!/bin/bash
-dpkg-deb -bZgzip projects/VMTheme debs
+dpkg-deb -bZgzip projects/Sploosh debs

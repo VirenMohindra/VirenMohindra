@@ -1,15 +1,15 @@
-Package: io.github.virenmohindra.VMTheme
-Version: 0.1
+Package: io.github.virenmohindra.sploosh
+Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
-Depends: com.anemonetheming.anemone
-Filename: ./debs//io.github.virenmohindra.vmtheme_0.1_iphoneos-arm.deb
-Size: 20170268
-MD5sum: fba58d2aca0be4c2f1781009332b1ba9
-SHA1: ae9963d81870b55db1321597ef5daea983afb82b
-SHA256: fa7ae9c591d859d8161aee94dbed278e1c764da87c2cd92d89a2ae72623b1245
-Section: Themes (Springboard)
-Description: a simple Winterboard theme
+Depends: com.aditkamath.springy
+Filename: ./debs/io.github.virenmohindra.sploosh_1.0_iphoneos-arm.deb
+Size: 2312560
+MD5sum: b318d08d95859905387b666621930fa7
+SHA1: 75dc428367beb36a6a22584c1b1f3b4dc3d7d414
+SHA256: 166538fac20975da5989c3e1a20976a463781307147501992c19c00ea19c5d96
+Section: Addons (Springy)
+Description: Animated respring theme for Springy
 Author: Viren Mohindra <viren.mohindra@gmail.com>
-Name: VMTheme
+Name: Sploosh - Springy BootLogo
 

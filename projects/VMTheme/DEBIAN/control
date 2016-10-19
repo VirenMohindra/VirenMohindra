@@ -1,9 +1,0 @@
-Package: io.github.virenmohindra.VMTheme
-Name: VMTheme
-Depends: com.anemonetheming.anemone
-Version: 0.1
-Architecture: iphoneos-arm
-Description: a simple Winterboard theme
-Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
-Author: Viren Mohindra <viren.mohindra@gmail.com>
-Section: Themes (Springboard)
