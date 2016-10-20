@@ -178,6 +178,21 @@ Description: Animated respring theme for Springy
 Author: Viren Mohindra <viren.mohindra@gmail.com>
 Name: Mograph - Springy BootLogo
 
+Package: io.github.virenmohindra.pepe-matrix
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
+Depends: com.aditkamath.springy
+Filename: ./debs/io.github.virenmohindra.pepe-matrix_1.0_iphoneos-arm.deb
+Size: 2940450
+MD5sum: 1ab4ff5af0f3d6629ff891bcddd4a876
+SHA1: d187c01fe68a52220338243aea583e11a4b02127
+SHA256: 0b18a23106d09bdf9db3c006987168f8f12bb2f6e6d91cac96b2e98ab14fd050
+Section: Addons (Springy)
+Description: Animated respring theme for Springy. Credit: /u/ohfuckitslit
+Author: Viren Mohindra <viren.mohindra@gmail.com>
+Name: Pepe Matrix - Springy BootLogo
+
 Package: io.github.virenmohindra.pizza
 Version: 1.0
 Architecture: iphoneos-arm
