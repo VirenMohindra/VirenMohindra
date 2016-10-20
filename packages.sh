@@ -9,6 +9,7 @@ dpkg-deb -bZgzip projects/Flower debs
 dpkg-deb -bZgzip projects/Fragments debs
 dpkg-deb -bZgzip projects/Funny\ Computer debs
 dpkg-deb -bZgzip projects/Hypnotoad debs
+dpkg-deb -bZgzip projects/Hello\ Again debs
 dpkg-deb -bZgzip projects/Mograph debs
 dpkg-deb -bZgzip projects/Pizza debs
 dpkg-deb -bZgzip projects/Pizza\ Hi debs

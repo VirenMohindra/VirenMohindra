@@ -133,6 +133,21 @@ Description: Animated respring theme for Springy
 Author: Viren Mohindra <viren.mohindra@gmail.com>
 Name: Funny Computer - Springy BootLogo
 
+Package: io.github.virenmohindra.hello-again
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
+Depends: com.aditkamath.springy
+Filename: ./debs/io.github.virenmohindra.hello-again_1.0_iphoneos-arm.deb
+Size: 14489266
+MD5sum: 0dcab3c8e3e4334b39502dfa5937b0a8
+SHA1: 9eee8a97c0314db184c663362fd95ab72b28432a
+SHA256: f4e221e827389ac862cc3f5eb1a8b215451ba99a9b9db8e7deb4eff7fbfc38ee
+Section: Addons (Springy)
+Description: Animated respring theme for Springy
+Author: Viren Mohindra <viren.mohindra@gmail.com>
+Name: Hello Again - Springy BootLogo
+
 Package: io.github.virenmohindra.hypnotoad
 Version: 1.0
 Architecture: iphoneos-arm
