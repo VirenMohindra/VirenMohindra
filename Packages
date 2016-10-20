@@ -139,12 +139,12 @@ Architecture: iphoneos-arm
 Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
 Depends: com.aditkamath.springy
 Filename: ./debs/io.github.virenmohindra.hello-again_1.0_iphoneos-arm.deb
-Size: 14489266
-MD5sum: 0dcab3c8e3e4334b39502dfa5937b0a8
-SHA1: 9eee8a97c0314db184c663362fd95ab72b28432a
-SHA256: f4e221e827389ac862cc3f5eb1a8b215451ba99a9b9db8e7deb4eff7fbfc38ee
+Size: 14487014
+MD5sum: 047ad451e672ff3e9320a9d179d95c05
+SHA1: 246b0089dea007b604170d99c276cb27930acffc
+SHA256: 15734c4d99146c446eda2e66c146cc58496d5355e47c547f170badf8882c0654
 Section: Addons (Springy)
-Description: Animated respring theme for Springy
+Description: Animated respring theme for Springy. Credit: /u/Steve-luo
 Author: Viren Mohindra <viren.mohindra@gmail.com>
 Name: Hello Again - Springy BootLogo
 
@@ -327,6 +327,21 @@ Section: Addons (Springy)
 Description: Animated respring theme for Springy
 Author: Viren Mohindra <viren.mohindra@gmail.com>
 Name: Stay In Lane - Springy BootLogo
+
+Package: io.github.virenmohindra.stranger-things
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
+Depends: com.aditkamath.springy
+Filename: ./debs/io.github.virenmohindra.stranger-things_1.0_iphoneos-arm.deb
+Size: 3568490
+MD5sum: a7c51ee9c49bca4094a5f53d07e62ebc
+SHA1: 17755b86417ac61d5d7dbdd59e119d552e7d8b8e
+SHA256: 0cd4f0694f913bf96a99fee044272265d4491223180ccb625c3471615e7b0521
+Section: Addons (Springy)
+Description: Animated respring theme for Springy. Credit: /u/kingwill22
+Author: Viren Mohindra <viren.mohindra@gmail.com>
+Name: Stranger Things - Springy BootLogo (DankerThings)
 
 Package: io.github.virenmohindra.swimmer
 Version: 1.0
