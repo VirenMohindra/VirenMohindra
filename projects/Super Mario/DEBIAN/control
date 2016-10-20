@@ -1,0 +1,9 @@
+Package: io.github.virenmohindra.super-mario
+Name: Super Mario - Springy BootLogo
+Depends: com.aditkamath.springy
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Animated respring theme for Springy. Credit: /u/CherryYums
+Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
+Author: Viren Mohindra <viren.mohindra@gmail.com>
+Section: Addons (Springy)

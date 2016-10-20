@@ -1,0 +1,9 @@
+Package: io.github.virenmohindra.colorful-stars-in-space
+Name: Colorful Stars In Space - Springy BootLogo
+Depends: com.aditkamath.springy
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Animated respring theme for Springy. Credit: /u/supernovaghost
+Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
+Author: Viren Mohindra <viren.mohindra@gmail.com>
+Section: Addons (Springy)

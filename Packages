@@ -43,6 +43,21 @@ Description: Animated respring theme for Springy
 Author: Viren Mohindra <viren.mohindra@gmail.com>
 Name: Bubbles - Springy BootLogo
 
+Package: io.github.virenmohindra.colorful-stars-in-space
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
+Depends: com.aditkamath.springy
+Filename: ./debs/io.github.virenmohindra.colorful-stars-in-space_1.0_iphoneos-arm.deb
+Size: 2100742
+MD5sum: 5fab33046ae7c4825f12b790e4c5d25f
+SHA1: e0bea6899734dee483f4be5fe00a60623f68eedc
+SHA256: 7e4b3c42d8276a1ab484e85e990ec5d05ea9707f7390d1f515a509b775bb703d
+Section: Addons (Springy)
+Description: Animated respring theme for Springy. Credit: /u/supernovaghost
+Author: Viren Mohindra <viren.mohindra@gmail.com>
+Name: Colorful Stars In Space - Springy BootLogo
+
 Package: io.github.virenmohindra.columns
 Version: 1.0
 Architecture: iphoneos-arm
@@ -132,6 +147,36 @@ Section: Addons (Springy)
 Description: Animated respring theme for Springy
 Author: Viren Mohindra <viren.mohindra@gmail.com>
 Name: Funny Computer - Springy BootLogo
+
+Package: io.github.virenmohindra.gameboy-advance
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
+Depends: com.aditkamath.springy
+Filename: ./debs/io.github.virenmohindra.gameboy-advance_1.0_iphoneos-arm.deb
+Size: 3313896
+MD5sum: f91f8d1149431b456e4bb78aad9f4f47
+SHA1: 9247a879ffda927dcb260d27b358325fd71782fd
+SHA256: 1273f45ea977f4a2b8c8ea42df669f6ba672bdb08875988fc9ba364358fd0c25
+Section: Addons (Springy)
+Description: Animated respring theme for Springy. Credit: /u/CherryYums
+Author: Viren Mohindra <viren.mohindra@gmail.com>
+Name: Gameboy Advance - Springy BootLogo
+
+Package: io.github.virenmohindra.gamecube-logo
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
+Depends: com.aditkamath.springy
+Filename: ./debs/io.github.virenmohindra.gamecube-logo_1.0_iphoneos-arm.deb
+Size: 1418888
+MD5sum: 435bf13de962d67e0d6b734606dfad78
+SHA1: 603722dfbe80d8d7d88e9d09637e0f739d5830ba
+SHA256: 768c949743d416e7eabbc6f31c1fc75627bfa9c01b87e1b42f070dbad7677252
+Section: Addons (Springy)
+Description: Animated respring theme for Springy. Credit: /u/CherryYums
+Author: Viren Mohindra <viren.mohindra@gmail.com>
+Name: Gamecube Logo - Springy BootLogo
 
 Package: io.github.virenmohindra.hello-again
 Version: 1.0
@@ -313,6 +358,21 @@ Description: Animated respring theme for Springy
 Author: Viren Mohindra <viren.mohindra@gmail.com>
 Name: Routine - Springy BootLogo
 
+Package: io.github.virenmohindra.sonic-running
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
+Depends: com.aditkamath.springy
+Filename: ./debs/io.github.virenmohindra.sonic-running_1.0_iphoneos-arm.deb
+Size: 265802
+MD5sum: 8e18425c53b1765366290b8fc366bb62
+SHA1: d9e858988505c8605b5575ae5d150fda03811ac2
+SHA256: fece12c3b89f8eaf258cdc389e807410d60fb485ba201de97742c4ff79f40cf9
+Section: Addons (Springy)
+Description: Animated respring theme for Springy. Credit: /u/CherryYums
+Author: Viren Mohindra <viren.mohindra@gmail.com>
+Name: Sonic Running - Springy BootLogo
+
 Package: io.github.virenmohindra.soup
 Version: 1.0
 Architecture: iphoneos-arm
@@ -387,6 +447,21 @@ Section: Addons (Springy)
 Description: Animated respring theme for Springy. Credit: /u/kingwill22
 Author: Viren Mohindra <viren.mohindra@gmail.com>
 Name: Stranger Things - Springy BootLogo (DankerThings)
+
+Package: io.github.virenmohindra.super-mario
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
+Depends: com.aditkamath.springy
+Filename: ./debs/io.github.virenmohindra.super-mario_1.0_iphoneos-arm.deb
+Size: 3507446
+MD5sum: 00badc40630597d3377f734349213baa
+SHA1: 70f668ab6d3b288f840702bd0856aed969b540a3
+SHA256: ae76abc6fb76051de0151be2fb5ee2659bb85f4c70e5b336889722c7113930cf
+Section: Addons (Springy)
+Description: Animated respring theme for Springy. Credit: /u/CherryYums
+Author: Viren Mohindra <viren.mohindra@gmail.com>
+Name: Super Mario - Springy BootLogo
 
 Package: io.github.virenmohindra.swimmer
 Version: 1.0
