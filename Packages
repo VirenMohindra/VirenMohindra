@@ -253,6 +253,21 @@ Description: Animated respring theme for Springy. Credit: /u/gabe-nick
 Author: Viren Mohindra <viren.mohindra@gmail.com>
 Name: Rainbow 8 - Springy BootLogo
 
+Package: io.github.virenmohindra.rainy
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
+Depends: com.aditkamath.springy
+Filename: ./debs/io.github.virenmohindra.rainy_1.0_iphoneos-arm.deb
+Size: 5128326
+MD5sum: 6208bcdd699fb5f57051d3a718fba60d
+SHA1: afe67f2b4c3ec043d3d1037d198dc583aca64d53
+SHA256: c22379e9cce6d9f75f4edee37bd2aefc2988503981b253c8e7677aa5e9a7a58b
+Section: Addons (Springy)
+Description: Animated respring theme for Springy. Credit: /u/ohfuckitslit
+Author: Viren Mohindra <viren.mohindra@gmail.com>
+Name: Rainy - Springy BootLogo
+
 Package: io.github.virenmohindra.rolling-circles
 Version: 1.0
 Architecture: iphoneos-arm
