@@ -238,6 +238,21 @@ Description: Animated respring theme for Springy
 Author: Viren Mohindra <viren.mohindra@gmail.com>
 Name: Pulse - Springy BootLogo
 
+Package: io.github.virenmohindra.rainbow-8
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
+Depends: com.aditkamath.springy
+Filename: ./debs/io.github.virenmohindra.rainbow-8_1.0_iphoneos-arm.deb
+Size: 315182
+MD5sum: 315240525538799ea96175ed961bf76f
+SHA1: fd5790bd9158c092d47de777c318a8f70b20dc60
+SHA256: 6230da03ce2a77f284f0992008ded82acf80c92fe9c8ce359d8788925a53dea8
+Section: Addons (Springy)
+Description: Animated respring theme for Springy. Credit: /u/gabe-nick
+Author: Viren Mohindra <viren.mohindra@gmail.com>
+Name: Rainbow 8 - Springy BootLogo
+
 Package: io.github.virenmohindra.rolling-circles
 Version: 1.0
 Architecture: iphoneos-arm
