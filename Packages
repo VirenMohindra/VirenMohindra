@@ -1,16 +1,17 @@
 Package: io.github.virenmohindra.a-wave
-Version: 1.0
+Version: 2.0
 Architecture: iphoneos-arm
 Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
 Depends: com.aditkamath.springy
-Filename: ./debs/io.github.virenmohindra.a-wave_1.0_iphoneos-arm.deb
-Size: 2971636
-MD5sum: 3fd77e8c7ca046e9caaa4cd25a091f53
-SHA1: 6397eba2aecd0f0271efc45293a9f8fa7bb3ad68
-SHA256: 40a261f7955cb7212b616f43bad96c06758cb4677b9d015be99113d56562102b
+Filename: ./debs/io.github.virenmohindra.a-wave_2.0_iphoneos-arm.deb
+Size: 2971666
+MD5sum: 8b5b9fab5871533b37063097319c9df0
+SHA1: c1b529d98f3365f4de254e5bfb2c48b0c4ac9e7d
+SHA256: 7a54f492eda3fef8f99d7f15ed486e1284980bc7a92f0302c711daac6bbdc016
 Section: Addons (Springy)
 Description: Animated respring theme for Springy
 Author: Viren Mohindra <viren.mohindra@gmail.com>
+Depiction: http://virenmohindra.github.io/depictions/A Wave
 Name: A Wave - Springy BootLogo
 
 Package: io.github.virenmohindra.bipolar-balls
