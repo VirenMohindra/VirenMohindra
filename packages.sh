@@ -40,3 +40,12 @@ dpkg-deb -bZgzip projects/Upload debs
 dpkg-deb -bZgzip projects/Waiting debs
 dpkg-deb -bZgzip projects/World\ Swap debs
 dpkg-deb -bZgzip projects/Yin\ And\ Yang debs
+
+
+# reorganize
+dpkg-deb -bZgzip projects/Alone debs
+dpkg-deb -bZgzip projects/Black\ Hole debs
+dpkg-deb -bZgzip projects/Only\ Human debs
+dpkg-deb -bZgzip projects/Lines debs
+dpkg-deb -bZgzip projects/Fluid debs
+dpkg-deb -bZgzip projects/Boo debs
