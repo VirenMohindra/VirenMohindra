@@ -158,6 +158,22 @@ Author: Viren Mohindra <viren.mohindra@gmail.com>
 Depiction: http://virenmohindra.github.io/depictions/Echo
 Name: Echo - Springy BootLogo
 
+Package: io.github.virenmohindra.fall-leaves
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
+Depends: com.aditkamath.springy
+Filename: ./debs/io.github.virenmohindra.fall-leaves_1.0_iphoneos-arm.deb
+Size: 2904484
+MD5sum: 456a93304f2e9a1a6167d3762c1651dd
+SHA1: 5940cb50cc71cddf440f5118a6e3f2e3f53ebe61
+SHA256: fbcdf8c373f1240c0224f1dd02f5cab00fc3e938af2d7350efaec3da966607aa
+Section: Addons (Springy)
+Description: Animated respring theme for Springy.
+Author: Viren Mohindra <viren.mohindra@gmail.com>
+Depiction: http://virenmohindra.github.io/depictions/Fall Leaves
+Name: Fall Leaves - Springy BootLogo
+
 Package: io.github.virenmohindra.flower
 Version: 2.0
 Architecture: iphoneos-arm
