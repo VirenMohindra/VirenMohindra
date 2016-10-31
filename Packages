@@ -542,6 +542,22 @@ Author: Viren Mohindra <viren.mohindra@gmail.com>
 Depiction: http://virenmohindra.github.io/depictions/Spikey
 Name: Spikey - Springy BootLogo
 
+Package: io.github.virenmohindra.spinning-rings
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
+Depends: com.aditkamath.springy
+Filename: ./debs/io.github.virenmohindra.spinning-rings_2.0_iphoneos-arm.deb
+Size: 4339400
+MD5sum: d9a96471cfa2da0e31fdb33630dddd7d
+SHA1: b9de8475df0e941463de10326edfbdb986e0db59
+SHA256: e8f5f6b2c2d756bf85e8979b9b6628b1207a7cd3f81abf48cdc732c3912146b9
+Section: Addons (Springy)
+Description: Animated respring theme for Springy
+Author: Viren Mohindra <viren.mohindra@gmail.com>
+Depiction: http://virenmohindra.github.io/depictions/Spinning Rings
+Name: Spinning Rings - Springy BootLogo
+
 Package: io.github.virenmohindra.sploosh
 Version: 2.0
 Architecture: iphoneos-arm
