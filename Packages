@@ -639,15 +639,15 @@ Depiction: http://virenmohindra.github.io/depictions/Swimmer
 Name: Swimmer - Springy BootLogo
 
 Package: io.github.virenmohindra.swish
-Version: 2.0
+Version: 3.0
 Architecture: iphoneos-arm
 Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
 Depends: com.aditkamath.springy
-Filename: ./debs/io.github.virenmohindra.swish_2.0_iphoneos-arm.deb
-Size: 988034
-MD5sum: abefc3122636f0e0f778e7fbf62ca1c5
-SHA1: ef74db1511e42987fb8060daa3cf43e8e5b28fb7
-SHA256: 9222d95626886b0b1c81e06077f3d25a0a2e57e46302d19d088a45206439b8b5
+Filename: ./debs/io.github.virenmohindra.swish_3.0_iphoneos-arm.deb
+Size: 501068
+MD5sum: 05e1d226368297b40ca75d2633008eda
+SHA1: a0b946543e747179783bd7bb0b0e7fc5f4189b53
+SHA256: 36d0e33d4daa76516c1c7013882a87185bdec0fd7175a0c990137e6eb5c15a99
 Section: Addons (Springy)
 Description: Animated respring theme for Springy
 Author: Viren Mohindra <viren.mohindra@gmail.com>
