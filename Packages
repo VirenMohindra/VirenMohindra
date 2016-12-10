@@ -30,6 +30,22 @@ Author: Viren Mohindra <viren.mohindra@gmail.com>
 Depiction: http://virenmohindra.github.io/depictions/Alone
 Name: Alone - Springy BootLogo
 
+Package: io.github.virenmohindra.amalgamation
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
+Depends: com.aditkamath.springy
+Filename: ./debs/io.github.virenmohindra.amalgamation_1.0_iphoneos-arm.deb
+Size: 8501452
+MD5sum: 42ca4050a6df857bb4f9b891e2c0b3cc
+SHA1: 228a03389aafa16166536b38280fb2ce3347dbf9
+SHA256: 95cd2637461b02181729305e3f7b027016c993d0bd5bf0c47385ddb7a3ee0e78
+Section: Addons (Springy)
+Description: Animated respring theme for Springy.
+Author: Viren Mohindra <viren.mohindra@gmail.com>
+Depiction: http://virenmohindra.github.io/depictions/Amalgamation
+Name: Amalgamation - Springy BootLogo
+
 Package: io.github.virenmohindra.bipolar-balls
 Version: 2.0
 Architecture: iphoneos-arm
