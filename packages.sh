@@ -17,6 +17,7 @@ dpkg-deb -bZgzip projects/Fragments debs
 dpkg-deb -bZgzip projects/Funny\ Computer debs
 dpkg-deb -bZgzip projects/Gameboy\ Advance debs
 dpkg-deb -bZgzip projects/Gamecube\ Logo debs
+dpkg-deb -bZgzip projects/Glitchy debs
 dpkg-deb -bZgzip projects/Hello\ Again debs
 dpkg-deb -bZgzip projects/Hypnotoad debs
 dpkg-deb -bZgzip projects/Lines debs
@@ -49,4 +50,4 @@ dpkg-deb -bZgzip projects/Upload debs
 dpkg-deb -bZgzip projects/Waiting debs
 dpkg-deb -bZgzip projects/World\ Swap debs
 dpkg-deb -bZgzip projects/Yin\ And\ Yang debs
-# 50
+# 51

@@ -286,6 +286,22 @@ Author: Viren Mohindra <viren.mohindra@gmail.com>
 Depiction: http://virenmohindra.github.io/depictions/Gamecube Logo
 Name: Gamecube Logo - Springy BootLogo
 
+Package: io.github.virenmohindra.glitchy-reuploaded
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
+Depends: com.aditkamath.springy
+Filename: ./debs/io.github.virenmohindra.glitchy-reuploaded_1.0_iphoneos-arm.deb
+Size: 3357130
+MD5sum: 5bdfd20b33102ce2222e5a2aa8ed984d
+SHA1: fbdf8da5b558973e840465361787cf9072d898d3
+SHA256: 649431a73db3ecca2b2ad7469cb1dda2714e2ae4214127d521007522e8e2f640
+Section: Addons (Springy)
+Description: Animated respring theme for Springy.
+Author: Viren Mohindra <viren.mohindra@gmail.com>
+Depiction: http://virenmohindra.github.io/depictions/Glitchy
+Name: Glitchy - Springy BootLogo
+
 Package: io.github.virenmohindra.hello-again
 Version: 2.0
 Architecture: iphoneos-arm
