@@ -5,10 +5,13 @@ dpkg-deb -bZgzip projects/Amalgamation debs
 dpkg-deb -bZgzip projects/Bipolar\ Balls debs
 dpkg-deb -bZgzip projects/Black\ Hole debs
 dpkg-deb -bZgzip projects/Boo debs
+dpkg-deb -bZgzip projects/Blue debs
 dpkg-deb -bZgzip projects/Bubbles debs
 dpkg-deb -bZgzip projects/Colorful\ Stars\ In\ Space debs
+dpkg-deb -bZgzip projects/Crystal\ Ball debs
 dpkg-deb -bZgzip projects/Columns debs
 dpkg-deb -bZgzip projects/Complicated debs
+dpkg-deb -bZgzip projects/Donuts debs
 dpkg-deb -bZgzip projects/Echo debs
 dpkg-deb -bZgzip projects/Fall\ Leaves debs
 dpkg-deb -bZgzip projects/Flower debs
@@ -20,10 +23,15 @@ dpkg-deb -bZgzip projects/Gamecube\ Logo debs
 dpkg-deb -bZgzip projects/Glitchy debs
 dpkg-deb -bZgzip projects/Hello\ Again debs
 dpkg-deb -bZgzip projects/Hypnotoad debs
+dpkg-deb -bZgzip projects/InfiniCube debs
+dpkg-deb -bZgzip projects/Joker debs
 dpkg-deb -bZgzip projects/Lines debs
+dpkg-deb -bZgzip projects/Loading debs
 dpkg-deb -bZgzip projects/Mograph debs
 dpkg-deb -bZgzip projects/Only\ Human debs
+dpkg-deb -bZgzip projects/Particules\ Head debs
 dpkg-deb -bZgzip projects/Pepe\ Matrix debs
+dpkg-deb -bZgzip projects/Prismatic\ Head debs
 dpkg-deb -bZgzip projects/Pizza debs
 dpkg-deb -bZgzip projects/Pizza\ Hi debs
 dpkg-deb -bZgzip projects/Pokemon debs
@@ -48,6 +56,7 @@ dpkg-deb -bZgzip projects/Time\ And\ Money debs
 dpkg-deb -bZgzip projects/Twisting\ Cubes debs
 dpkg-deb -bZgzip projects/Upload debs
 dpkg-deb -bZgzip projects/Waiting debs
+dpkg-deb -bZgzip projects/Weird\ Planet debs
 dpkg-deb -bZgzip projects/World\ Swap debs
 dpkg-deb -bZgzip projects/Yin\ And\ Yang debs
-# 51
+# 60

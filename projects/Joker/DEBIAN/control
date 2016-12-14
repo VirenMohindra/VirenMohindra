@@ -1,0 +1,10 @@
+Package: io.github.virenmohindra.joker
+Name: Joker - Springy BootLogo
+Depends: com.aditkamath.springy
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Animated respring theme for Springy. Credit: /u/Kxng_____
+Depiction: http://virenmohindra.github.io/depictions/Joker
+Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
+Author: Viren Mohindra <viren.mohindra@gmail.com>
+Section: Addons (Springy)

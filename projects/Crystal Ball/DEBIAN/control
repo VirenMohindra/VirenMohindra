@@ -1,0 +1,10 @@
+Package: io.github.virenmohindra.crystal-ball
+Name: Crystal Ball - Springy BootLogo
+Depends: com.aditkamath.springy
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Animated respring theme for Springy. Credit: /u/PONCE54958
+Depiction: http://virenmohindra.github.io/depictions/Crystal Ball
+Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
+Author: Viren Mohindra <viren.mohindra@gmail.com>
+Section: Addons (Springy)

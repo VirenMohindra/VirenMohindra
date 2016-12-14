@@ -5,9 +5,9 @@ Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
 Depends: com.aditkamath.springy
 Filename: ./debs/io.github.virenmohindra.a-wave_2.0_iphoneos-arm.deb
 Size: 2971666
-MD5sum: 4db2c7d78a89ffb59a79c5153cba58c7
-SHA1: d9544b4b511ecd3e0b8b5b8dbc14adf1b0f85d2e
-SHA256: a16b33564d71d1a7e5c0fd15860bb8b442c56ccb964ea42797fd0945a011d2b8
+MD5sum: d5af4beaa05531daef4ddf3a41089745
+SHA1: 688960ac28a4ef25d048153d9e0684eeb6b9e67f
+SHA256: 6f75afb9e9a924bf43647afbcdea61166bdf70c5026c829dbd00e3bdb4955a1b
 Section: Addons (Springy)
 Description: Animated respring theme for Springy
 Author: Viren Mohindra <viren.mohindra@gmail.com>
@@ -21,9 +21,9 @@ Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
 Depends: com.aditkamath.springy
 Filename: ./debs/io.github.virenmohindra.alone_1.0_iphoneos-arm.deb
 Size: 2426226
-MD5sum: 5f116dc435415c62ef698b9aa6c944d9
-SHA1: 5dd3310ed7d1f1efcdaeb5b4b480ab261ad15bf5
-SHA256: 8e94618f8cd03a850790842a65465a56adbdf416e81d82f530b0813a3e3c70a9
+MD5sum: a8bac41c82a63923eb05196c38b81e62
+SHA1: 933be171ea3d5de7f10ffb12471a7ed655d4f473
+SHA256: 16ace424744f201fbb80ca7eb1dffd81911306225ce769b6c21dbd227be4c778
 Section: Addons (Springy)
 Description: Animated respring theme for Springy.
 Author: Viren Mohindra <viren.mohindra@gmail.com>
@@ -36,10 +36,10 @@ Architecture: iphoneos-arm
 Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
 Depends: com.aditkamath.springy
 Filename: ./debs/io.github.virenmohindra.amalgamation_1.0_iphoneos-arm.deb
-Size: 8501452
-MD5sum: 42ca4050a6df857bb4f9b891e2c0b3cc
-SHA1: 228a03389aafa16166536b38280fb2ce3347dbf9
-SHA256: 95cd2637461b02181729305e3f7b027016c993d0bd5bf0c47385ddb7a3ee0e78
+Size: 8499786
+MD5sum: c2197b7c9206f7dcfc8c57d3ba9c6dfd
+SHA1: bb30e507661c08053d576817550f655fa5de47d6
+SHA256: 22834ac4c7ac49412a65dcf97823cab184bcc5da38c291a13fff1d84fdd28a74
 Section: Addons (Springy)
 Description: Animated respring theme for Springy.
 Author: Viren Mohindra <viren.mohindra@gmail.com>
@@ -53,9 +53,9 @@ Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
 Depends: com.aditkamath.springy
 Filename: ./debs/io.github.virenmohindra.bipolar-balls_2.0_iphoneos-arm.deb
 Size: 12971146
-MD5sum: 2eda73392b4f568d02cd93fab36d02e1
-SHA1: 9d42243878fe7af42a36ee3fa70fd6304dfa148c
-SHA256: cf17436271f069de0e485aacfdb00d41065b1a1f69f8cc0676fcc05848014c4c
+MD5sum: e7ea727a5d7967e35b24d1be9d450b9c
+SHA1: 8c40187e4033ec9a2319e6491b0484a7be34574b
+SHA256: c3d2b3524f0024cc47dd6b5ff1fbf95445d284c2da72f437a11c16ca9027ce2b
 Section: Addons (Springy)
 Description: Animated respring theme for Springy
 Author: Viren Mohindra <viren.mohindra@gmail.com>
@@ -69,14 +69,30 @@ Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
 Depends: com.aditkamath.springy
 Filename: ./debs/io.github.virenmohindra.black-hole_1.0_iphoneos-arm.deb
 Size: 22080512
-MD5sum: 8a8f45532f3c93976db2b2a1bce9bf6d
-SHA1: b42d2e827d53fbc091190635ed5b5e12d53a71f8
-SHA256: c1c4707eec827ed6457a79dba6530d324fac952369299177d141c90f47b53275
+MD5sum: d7be5793b0bb7ed3778fb73a36717a54
+SHA1: fa80f31a6eea4b2188368239189fd7d87213f410
+SHA256: d01081346a905789224f93971f6405f460e3f985f03ee575a5c47d12e3e45116
 Section: Addons (Springy)
 Description: Animated respring theme for Springy.
 Author: Viren Mohindra <viren.mohindra@gmail.com>
 Depiction: http://virenmohindra.github.io/depictions/Black Hole
 Name: Black Hole - Springy BootLogo
+
+Package: io.github.virenmohindra.blue
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
+Depends: com.aditkamath.springy
+Filename: ./debs/io.github.virenmohindra.blue_1.0_iphoneos-arm.deb
+Size: 36483298
+MD5sum: 117e44e42d1a22d09e7ab14cb4036b2f
+SHA1: 33d0ed0ccad5abd0e4e0b07e09228e40b0ddc903
+SHA256: d1c841076a82b570b2da4e02deafe1199c4f1b227a1d5ebe76077e7b1c0e8801
+Section: Addons (Springy)
+Description: Animated respring theme for Springy. Credit: /u/PONCE54958
+Author: Viren Mohindra <viren.mohindra@gmail.com>
+Depiction: http://virenmohindra.github.io/depictions/Blue
+Name: Blue - Springy BootLogo
 
 Package: io.github.virenmohindra.boo
 Version: 1.0
@@ -85,9 +101,9 @@ Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
 Depends: com.aditkamath.springy
 Filename: ./debs/io.github.virenmohindra.boo_1.0_iphoneos-arm.deb
 Size: 4678508
-MD5sum: 8b1f7488c82df68671d1747b38fd29a9
-SHA1: 5d30edcb0238e4f673c5caecc773afb9db4e3d58
-SHA256: 11616b1b05665ac3c972403db4dbb9f4a3d23eb8589454bbb6ddec2f97244908
+MD5sum: 72c5529c5991e03cac1f560fe07f12a3
+SHA1: 75ef7e2d86889fca1c2494cbd3f10d17a0c2d319
+SHA256: 6578fa2db4c291e8401407dd4548dd1ba9cf332aee6e148013fa7285712d8b22
 Section: Addons (Springy)
 Description: Animated respring theme for Springy.
 Author: Viren Mohindra <viren.mohindra@gmail.com>
@@ -101,9 +117,9 @@ Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
 Depends: com.aditkamath.springy
 Filename: ./debs/io.github.virenmohindra.bubbles_2.0_iphoneos-arm.deb
 Size: 4775942
-MD5sum: 72f9efb12654a50eba61d5bc5d221d6d
-SHA1: df021a79e243471bdb69d6a25bd33d080c173957
-SHA256: 77b3e9914c843ff18e971c755021bea761dc3c07ba43a18e46a724869acfa701
+MD5sum: b42f432454ef4d578d9bb77aa115c000
+SHA1: c00038601e4decc2edfd1be4cb054d410a1efca4
+SHA256: 89f17031c015fcdd0644c5b83496b12e8889850fea965073a71abfdc470ebc1f
 Section: Addons (Springy)
 Description: Animated respring theme for Springy
 Author: Viren Mohindra <viren.mohindra@gmail.com>
@@ -117,9 +133,9 @@ Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
 Depends: com.aditkamath.springy
 Filename: ./debs/io.github.virenmohindra.colorful-stars-in-space_2.0_iphoneos-arm.deb
 Size: 2098926
-MD5sum: 2fc4b225a98d27d50de409dfc782925d
-SHA1: 6ebc47537d517fd2f1ccd07cd0cf76f384caee6e
-SHA256: b8c2810e90629b5a1a5e4095bcb0d7c76c3f3df961fb7d0fcca5a33a6ac8ac52
+MD5sum: e5507be4048dd3812a14b2f5a3847943
+SHA1: 0bff1c46268163dcdadc97d3636c0420c1cba319
+SHA256: 50c0dac99b358c6805870be0e6f52cc2190889ce7fa2e198e3288f9aa4fac534
 Section: Addons (Springy)
 Description: Animated respring theme for Springy. Credit: /u/supernovaghost
 Author: Viren Mohindra <viren.mohindra@gmail.com>
@@ -133,9 +149,9 @@ Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
 Depends: com.aditkamath.springy
 Filename: ./debs/io.github.virenmohindra.columns_2.0_iphoneos-arm.deb
 Size: 3588428
-MD5sum: 5ff0352f664d88c0a4bb94c2ad08de97
-SHA1: 8addf539c4f3a58a1c7fd117342274463e7cccc1
-SHA256: e688b79e424008710b11e724ec432c28d4dcc135aa169120d062d1da0ab5c67e
+MD5sum: bf7a4e0b8e0667b82e8b2d4caf6f856f
+SHA1: 56d0d4d79b400d00773454846542c0ef9303f21c
+SHA256: c9148efccacafb5f52022d697c627955c0dacbfe8049da281a7967be54b420b5
 Section: Addons (Springy)
 Description: Animated respring theme for Springy
 Author: Viren Mohindra <viren.mohindra@gmail.com>
@@ -149,14 +165,46 @@ Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
 Depends: com.aditkamath.springy
 Filename: ./debs/io.github.virenmohindra.complicated_2.0_iphoneos-arm.deb
 Size: 6293850
-MD5sum: 9bb5ab0de4ff971a64c74b5317ab7af7
-SHA1: 11377774a3e8a578fdd2ba78f257efe5bd14cee1
-SHA256: 482dc44dc240d98c5ca221d0b8c8684b31e5f609e3e97ac1cc4579be30950668
+MD5sum: 5aa70904b9755d2c017fe21cc8f41796
+SHA1: 950a925c975b7f3dc4d581dbc429242e6f4fb9a9
+SHA256: d7204128644f764d403748f08719c46b608d65118af3e373937774d47a2560ea
 Section: Addons (Springy)
 Description: Animated respring theme for Springy
 Author: Viren Mohindra <viren.mohindra@gmail.com>
 Depiction: http://virenmohindra.github.io/depictions/Complicated
 Name: Complicated - Springy BootLogo
+
+Package: io.github.virenmohindra.crystal-ball
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
+Depends: com.aditkamath.springy
+Filename: ./debs/io.github.virenmohindra.crystal-ball_1.0_iphoneos-arm.deb
+Size: 24528948
+MD5sum: 1fdadc8d62614fcae049e8757a1e9604
+SHA1: 60bc8cf7b06b9f8fe0a6355cf7c605a82e63d209
+SHA256: b50e4663a064369f860f40bededc74e06bba43dc7a8554264930bd0f401f27e1
+Section: Addons (Springy)
+Description: Animated respring theme for Springy. Credit: /u/PONCE54958
+Author: Viren Mohindra <viren.mohindra@gmail.com>
+Depiction: http://virenmohindra.github.io/depictions/Crystal Ball
+Name: Crystal Ball - Springy BootLogo
+
+Package: io.github.virenmohindra.donuts
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
+Depends: com.aditkamath.springy
+Filename: ./debs/io.github.virenmohindra.donuts_1.0_iphoneos-arm.deb
+Size: 33756962
+MD5sum: 03e3727a7fde99bf8618e4f4a3a43fda
+SHA1: 91cc37276240d500c89a604d21c6d321e6ac8913
+SHA256: 3f1dc74acdcd85f6bd549de963f86921e4af1ba67caab565eb69545c4887d579
+Section: Addons (Springy)
+Description: Animated respring theme for Springy. Credit: /u/PONCE54958
+Author: Viren Mohindra <viren.mohindra@gmail.com>
+Depiction: http://virenmohindra.github.io/depictions/Donuts
+Name: Donuts - Springy BootLogo
 
 Package: io.github.virenmohindra.echo
 Version: 2.0
@@ -165,9 +213,9 @@ Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
 Depends: com.aditkamath.springy
 Filename: ./debs/io.github.virenmohindra.echo_2.0_iphoneos-arm.deb
 Size: 5357912
-MD5sum: e5977ac2540d63685a5ac68d62679ffb
-SHA1: 632d9aa4b5e7c208bdd5efc43c82335bbff8a29f
-SHA256: 36b035c8b44c8238c42bf26ae077c8095c1c610c76d69d52d0745f66811ce720
+MD5sum: 362893e6245b094230452a7b1208223d
+SHA1: b427d1cae162edaab9d98355e54e5703c7dab928
+SHA256: 5495f267ddfb4bbcb4f9f2c9627dde02ce27c960039ca7acdc1bdb70d95b1704
 Section: Addons (Springy)
 Description: Animated respring theme for Springy
 Author: Viren Mohindra <viren.mohindra@gmail.com>
@@ -181,9 +229,9 @@ Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
 Depends: com.aditkamath.springy
 Filename: ./debs/io.github.virenmohindra.fall-leaves_1.0_iphoneos-arm.deb
 Size: 2903756
-MD5sum: ea34ab6bb642c1d8259d6544e75a2645
-SHA1: 04c2a3cab15c302aff33ac62f1afddebf2f9b1f8
-SHA256: 2b88ccd7e4997442c34359ec67dad7b29a53c1f00ff8b8490024458c5de86c88
+MD5sum: d0ae062f70502d2e54427c1fff7cd381
+SHA1: 9e4863bb851b5168c386abd0088a144dc50c9500
+SHA256: b68882e3ea5d7c7990674c92cc8a5ce38c00ee995a365a90e74933971b836974
 Section: Addons (Springy)
 Description: Animated respring theme for Springy.
 Author: Viren Mohindra <viren.mohindra@gmail.com>
@@ -197,9 +245,9 @@ Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
 Depends: com.aditkamath.springy
 Filename: ./debs/io.github.virenmohindra.flower_2.0_iphoneos-arm.deb
 Size: 3313438
-MD5sum: 0373e487da7c1b4f35e933c12e3bca94
-SHA1: 5431e4f488a8795ed38d400f932917a7830aaa11
-SHA256: 3aa00c21bb4a08a5e7cad22d7c5ea269c50e666e4fe0f66850db6eb90a07f735
+MD5sum: f62f83b668bae50ace1943388511539c
+SHA1: b482d8c11a655f4c1402b82ed0266ffe7036c0eb
+SHA256: 55e9a5e1a5ee265a891bd47e6aadea6d3856b63b385e47b275fa7553aaebcc18
 Section: Addons (Springy)
 Description: Animated respring theme for Springy
 Author: Viren Mohindra <viren.mohindra@gmail.com>
@@ -213,9 +261,9 @@ Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
 Depends: com.aditkamath.springy
 Filename: ./debs/io.github.virenmohindra.fluid_1.0_iphoneos-arm.deb
 Size: 882280
-MD5sum: af1548cc314fd9fd9499072898aef3de
-SHA1: ac09881be8ab9b57d59bb48b6412a11f97dc02c6
-SHA256: 94868e3a922b0703a35d699cd91caef5fe8d5693802980bf04eb0af7d7e647a0
+MD5sum: 93ced8260c8c8f4608443bc2d529baab
+SHA1: c9daab9ec2ef0bf76ef2cbc35ca23f13efd22d12
+SHA256: 17a77d712899d91f0822841e9b32be64f4fda9b1bbe61ec72631c31f28f1e9ac
 Section: Addons (Springy)
 Description: Animated respring theme for Springy.
 Author: Viren Mohindra <viren.mohindra@gmail.com>
@@ -229,9 +277,9 @@ Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
 Depends: com.aditkamath.springy
 Filename: ./debs/io.github.virenmohindra.fragments_2.0_iphoneos-arm.deb
 Size: 8658140
-MD5sum: 4ba2c814d58f02abb3e898a09665f3aa
-SHA1: 69ae8531e656921e252e1cfa3619f3a7da9c7b10
-SHA256: be24936814d4c7170f202c3218bd65f24de7967acaceeb1635cc65acf6711a99
+MD5sum: 0f619bc557bab5b824f28e1942903fba
+SHA1: 6a0ebd7ad7f2944703f920e6bc8253a969388984
+SHA256: 2c767a4fb215abf4725b10a3d3ed195d08438cbccd63e3a633522b7f349aa2df
 Section: Addons (Springy)
 Description: Animated respring theme for Springy
 Author: Viren Mohindra <viren.mohindra@gmail.com>
@@ -245,9 +293,9 @@ Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
 Depends: com.aditkamath.springy
 Filename: ./debs/io.github.virenmohindra.funny-computer_2.0_iphoneos-arm.deb
 Size: 7708912
-MD5sum: a96d1563b09b09a885e31458f1bdc24c
-SHA1: 43bc4e7f5017afb360344e9fefa12ebe20e0a102
-SHA256: 512464a87e18b42a1095371c4037826fc0d5c120ca6cf29f2c182bb69cb5949c
+MD5sum: cb56a18532784fb0a5f394ce27827cf8
+SHA1: 338b18f99d89975acdb0892a1c88ec611afe25fc
+SHA256: 6fe7a15d4d3c2b3152d2d07250ebfc3fb931a3127303cd7c38888f1cbbd59005
 Section: Addons (Springy)
 Description: Animated respring theme for Springy
 Author: Viren Mohindra <viren.mohindra@gmail.com>
@@ -261,9 +309,9 @@ Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
 Depends: com.aditkamath.springy
 Filename: ./debs/io.github.virenmohindra.gameboy-advance_2.0_iphoneos-arm.deb
 Size: 3313038
-MD5sum: 4ad867fb923ab935b5a71c5ad826d1a1
-SHA1: accfee68f6f995a2e1287d6678fd47b28b5a81d8
-SHA256: 2963e3e8a5f8e68c46383dd829e18428c171890503fbd9eef6c629c5bd55ca81
+MD5sum: 48067f8b294cbb5a86ecf9361b0dbf78
+SHA1: 96d8b2385371d66fdc8dcd373b3c1d4bc0d0018d
+SHA256: e121d67ece4b7ae20104d3efa9d273e033387e088f6d29a45b2ff8273a7fe53e
 Section: Addons (Springy)
 Description: Animated respring theme for Springy. Credit: /u/CherryYums
 Author: Viren Mohindra <viren.mohindra@gmail.com>
@@ -277,9 +325,9 @@ Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
 Depends: com.aditkamath.springy
 Filename: ./debs/io.github.virenmohindra.gamecube-logo_2.0_iphoneos-arm.deb
 Size: 1418168
-MD5sum: 48f671c5720cfb288e0822cac2212d31
-SHA1: 9c23b84208373c0fee54cfd1392e6863a57955b9
-SHA256: 2705230dcca54c841d96f04839469ffc9e940d833d6d6257148e6a3d942616c1
+MD5sum: e2ba9a262daf67a0a163c5718dd2a311
+SHA1: 4a14be1b940264be0962b599a0d1023686c934c7
+SHA256: f65ccab92e09a51020ea0f70db4d6aefb08f2c7b098e5df714a7694661ebacbd
 Section: Addons (Springy)
 Description: Animated respring theme for Springy. Credit: /u/CherryYums
 Author: Viren Mohindra <viren.mohindra@gmail.com>
@@ -292,10 +340,10 @@ Architecture: iphoneos-arm
 Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
 Depends: com.aditkamath.springy
 Filename: ./debs/io.github.virenmohindra.glitchy-reuploaded_1.0_iphoneos-arm.deb
-Size: 3357130
-MD5sum: 5bdfd20b33102ce2222e5a2aa8ed984d
-SHA1: fbdf8da5b558973e840465361787cf9072d898d3
-SHA256: 649431a73db3ecca2b2ad7469cb1dda2714e2ae4214127d521007522e8e2f640
+Size: 3355826
+MD5sum: c8617f42ddc7c98ce4323eb047a82266
+SHA1: fe8582d47e7d576862a0f3c8f5327223edfbcd07
+SHA256: 385518559805db38185bb486c80132a31950ca196b2c695e2fdf95f27e564822
 Section: Addons (Springy)
 Description: Animated respring theme for Springy.
 Author: Viren Mohindra <viren.mohindra@gmail.com>
@@ -309,9 +357,9 @@ Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
 Depends: com.aditkamath.springy
 Filename: ./debs/io.github.virenmohindra.hello-again_2.0_iphoneos-arm.deb
 Size: 14487054
-MD5sum: 1ce0ba1b12d500f9b89923e9b9f7230e
-SHA1: d7eeefdf0acae151f071747e3c48014ec01d8834
-SHA256: 0ce99d583f7296eea4f00778dde63fdf33366d14916689c5b56af53cad0e4282
+MD5sum: c2cd2fe87f64547916d44b1714a135f2
+SHA1: 9bb9bf5f9d0137d7a50f456003cb065c0af4e5a7
+SHA256: c9744638422d11a6015cba3fb8cff4ad7012a75706b35ceba65a8cbe8b536b02
 Section: Addons (Springy)
 Description: Animated respring theme for Springy. Credit: /u/Steve-luo
 Author: Viren Mohindra <viren.mohindra@gmail.com>
@@ -325,14 +373,46 @@ Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
 Depends: com.aditkamath.springy
 Filename: ./debs/io.github.virenmohindra.hypnotoad_2.0_iphoneos-arm.deb
 Size: 25036082
-MD5sum: c05880245d49a65b98b968aad7adfe09
-SHA1: ebf66b1b6bef48dddfb32ef4666cdf158696d4a4
-SHA256: 87babb4cb5d53575f0eb1f9e342ea726212cedbf92fe8860f5c18818754cf2bd
+MD5sum: 8bd54210ef66aa73979d1989bee4fa79
+SHA1: aa76f32a8e2a5971a4ae183bc38b14b77549d27f
+SHA256: 3c4637d9eb5f722c4a378ef9604b76b939f7e5feca70cc275eee23b79745d2ad
 Section: Addons (Springy)
 Description: Animated respring theme for Springy
 Author: Viren Mohindra <viren.mohindra@gmail.com>
 Depiction: http://virenmohindra.github.io/depictions/Hypnotoad
 Name: Hypnotoad - Springy BootLogo
+
+Package: io.github.virenmohindra.infinicube
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
+Depends: com.aditkamath.springy
+Filename: ./debs/io.github.virenmohindra.infinicube_1.0_iphoneos-arm.deb
+Size: 17485234
+MD5sum: 84afd9a4c76d43ef20ec6280bcc3aea8
+SHA1: c4ade15e69b457b8a1d04b5032a4144e726e8a37
+SHA256: 70fc3ff2b55b54f57a090b18e6a690e41a34c6f7e0ef33e78f38ebf4e175ac31
+Section: Addons (Springy)
+Description: Animated respring theme for Springy. Credit: /u/Jalen2612
+Author: Viren Mohindra <viren.mohindra@gmail.com>
+Depiction: http://virenmohindra.github.io/depictions/InfiniCube
+Name: InfiniCube - Springy BootLogo
+
+Package: io.github.virenmohindra.joker
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
+Depends: com.aditkamath.springy
+Filename: ./debs/io.github.virenmohindra.joker_1.0_iphoneos-arm.deb
+Size: 3781210
+MD5sum: 7ccbed490c43c73ca0c2ef8b7cfa5a0e
+SHA1: 624ab6eaf3c55466dd9d004e9dbdc17f5393f9f9
+SHA256: b67c0b13f11e829d226eb229b2d11da4a2fd0ce5701df3803278fd6b1affb3e8
+Section: Addons (Springy)
+Description: Animated respring theme for Springy. Credit: /u/Kxng_____
+Author: Viren Mohindra <viren.mohindra@gmail.com>
+Depiction: http://virenmohindra.github.io/depictions/Joker
+Name: Joker - Springy BootLogo
 
 Package: io.github.virenmohindra.lines
 Version: 1.0
@@ -341,14 +421,30 @@ Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
 Depends: com.aditkamath.springy
 Filename: ./debs/io.github.virenmohindra.lines_1.0_iphoneos-arm.deb
 Size: 3902644
-MD5sum: 6042cb4fbb97cee53ae4db384ad90f95
-SHA1: 8b0070e36cee788fd6ac1fb754ffe505a896e9a2
-SHA256: f56dcf09cffd0c635003268552f3d186d068bb1219501f9d1b6b4159c65dc5e0
+MD5sum: d475ed7a04622d3c58428efd6f933d56
+SHA1: 408a4da090a3df8fdb6db5ff01da07b8c8775615
+SHA256: 3fa94ea88bcc159f2fc9ff4cb80191f3cc1fb2c87961781d2003c0ad745310db
 Section: Addons (Springy)
 Description: Animated respring theme for Springy.
 Author: Viren Mohindra <viren.mohindra@gmail.com>
 Depiction: http://virenmohindra.github.io/depictions/Lines
 Name: Lines - Springy BootLogo
+
+Package: io.github.virenmohindra.loading
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
+Depends: com.aditkamath.springy
+Filename: ./debs/io.github.virenmohindra.loading_1.0_iphoneos-arm.deb
+Size: 3729850
+MD5sum: 0879e9f5b37f1931b95bb06c3b7385e4
+SHA1: c1572a08c4ce2c9b3924c3562c045eb348b38dec
+SHA256: 7b146c221330dfae8daae06962815dee1ebe741f8ec2bd8f91db7c91394153b1
+Section: Addons (Springy)
+Description: Animated respring theme for Springy. Credit: /u/Kxng_____
+Author: Viren Mohindra <viren.mohindra@gmail.com>
+Depiction: http://virenmohindra.github.io/depictions/Loading
+Name: Loading - Springy BootLogo
 
 Package: io.github.virenmohindra.mograph
 Version: 2.0
@@ -357,9 +453,9 @@ Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
 Depends: com.aditkamath.springy
 Filename: ./debs/io.github.virenmohindra.mograph_2.0_iphoneos-arm.deb
 Size: 4300166
-MD5sum: fa23404a421980e9a8a5e6912764ec74
-SHA1: 214b4cb17fd717877798897e94a653c3afb8b8ea
-SHA256: 8633135a0749cca12a4465872f3062504d7c35d91e78062a0554e97ecbd3ca75
+MD5sum: caa1c40931e1f6abad4673893396c01d
+SHA1: f025651f6456cfd913f8e18246126c1fe171ea89
+SHA256: ce9eaae3149f801047e325578e3f9f94438242e3bf6663b702a743bdb100bf46
 Section: Addons (Springy)
 Description: Animated respring theme for Springy
 Author: Viren Mohindra <viren.mohindra@gmail.com>
@@ -373,14 +469,30 @@ Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
 Depends: com.aditkamath.springy
 Filename: ./debs/io.github.virenmohindra.only-human_1.0_iphoneos-arm.deb
 Size: 6521242
-MD5sum: 7adcd979d2cf0d77c69f57d76b620efe
-SHA1: 512872ee804ed9fb67021b5b33b22618e8d81d8e
-SHA256: a812a701ad709b9672d2cc1ea83a25ee7014b2d6266dbcf7a3f4a2318e98f5bb
+MD5sum: 3adcb48ae207018bfac699066eba0dc7
+SHA1: fe3e5eb57a6435ca6c8fe86081a7f2a530c0e416
+SHA256: 16e6f9d2c7c454510b5aeaec90f24e9ca7e9d8068c20f0a315177158340e70c2
 Section: Addons (Springy)
 Description: Animated respring theme for Springy.
 Author: Viren Mohindra <viren.mohindra@gmail.com>
 Depiction: http://virenmohindra.github.io/depictions/Only Human
 Name: Only Human - Springy BootLogo
+
+Package: io.github.virenmohindra.particules-head
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
+Depends: com.aditkamath.springy
+Filename: ./debs/io.github.virenmohindra.particules-head_1.0_iphoneos-arm.deb
+Size: 20238714
+MD5sum: 6fc2fe73cc45e81c5a4a3ba855669f4c
+SHA1: e35274caecc94a280cb3156958408ad117d49d64
+SHA256: 4c40f8c87249b66abec6ced40117506a77cc52f1d71aaa37ce1226ea9278ddbd
+Section: Addons (Springy)
+Description: Animated respring theme for Springy. Credit: /u/PONCE54958
+Author: Viren Mohindra <viren.mohindra@gmail.com>
+Depiction: http://virenmohindra.github.io/depictions/Particules Head
+Name: Particules Head - Springy BootLogo
 
 Package: io.github.virenmohindra.pepe-matrix
 Version: 2.0
@@ -389,9 +501,9 @@ Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
 Depends: com.aditkamath.springy
 Filename: ./debs/io.github.virenmohindra.pepe-matrix_2.0_iphoneos-arm.deb
 Size: 2938872
-MD5sum: e7f2faf1a21232112f06119962493232
-SHA1: c3e18cca994d0dd18e96a740e1f0fe018a9a1de7
-SHA256: 7b7da5d4fcd7f98cc84f6248fca7b540a501ef241c7610b857f024ef86941742
+MD5sum: 8bd0a51ffada30f7c73490be26b47ec6
+SHA1: c44b4a1c4ca5494a8e101e9ddf710068d6e7153e
+SHA256: 798715c94314e935a4ed32a76d915e13ca65f3e8c2ed1d87adde198759076c48
 Section: Addons (Springy)
 Description: Animated respring theme for Springy. Credit: /u/ohfuckitslit
 Author: Viren Mohindra <viren.mohindra@gmail.com>
@@ -405,9 +517,9 @@ Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
 Depends: com.aditkamath.springy
 Filename: ./debs/io.github.virenmohindra.pizza_2.0_iphoneos-arm.deb
 Size: 1343942
-MD5sum: 9f8436994a1e7b45958b82d64e41ff7b
-SHA1: 137336bbccfebcb237bb6259bd8caa21f3b4a254
-SHA256: 5a73454558238f8690b80befa1e68c7c19008b7fef3007404a09df705970af1f
+MD5sum: f4e28e29f9ab71692c7af09de0b014d5
+SHA1: 6e4251f1ca511320275529b9b4fe543954e432f0
+SHA256: a16a25d4490f3783f023f9c361a11b6517e772ff737fd77bd3be6fe9a903ea1c
 Section: Addons (Springy)
 Description: Animated respring theme for Springy. [540x960]
 Author: Viren Mohindra <viren.mohindra@gmail.com>
@@ -421,9 +533,9 @@ Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
 Depends: com.aditkamath.springy
 Filename: ./debs/io.github.virenmohindra.pizza-hi_2.0_iphoneos-arm.deb
 Size: 2713888
-MD5sum: c0c91642d1943bc3af06d7f0d186618e
-SHA1: fce016a9437b5f17cef0e2fb52bacf9e0684fd8f
-SHA256: a0fb909624c1aa8bf98ed9f71d748704e2e3120b8f6076bdcc237fd5cd815089
+MD5sum: 6986e4b7ae4a945a595fef6d71966cf4
+SHA1: 515a1d6f8bbe22d496ac633a51851520e0c21817
+SHA256: 75aaba934c3b51c07db9f1749d2e9d260a68e8c1d63ce7d1a6e151f618813902
 Section: Addons (Springy)
 Description: Animated respring theme for Springy. [1920x1080]
 Author: Viren Mohindra <viren.mohindra@gmail.com>
@@ -437,14 +549,30 @@ Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
 Depends: com.aditkamath.springy
 Filename: ./debs/io.github.virenmohindra.pokemon_2.0_iphoneos-arm.deb
 Size: 4229932
-MD5sum: 51c67f60a821b5b6b2bb9037f132cb6f
-SHA1: a2b17de8acb782a407dfdc69363d6185add24fa6
-SHA256: 62118ea59ad4236e9d6ffa5c25f24b0a5c22b9f2765dbb050425ad19eee7048d
+MD5sum: b35033a5a7702df9c49e5f36d6e68aff
+SHA1: 8120f21c444f2755f17b58fe73ba95d7eae225e7
+SHA256: ab9802b61bda0cf597dd87159db0b44063b1c9a0532e28870796a4e32611adfe
 Section: Addons (Springy)
 Description: Animated respring theme for Springy
 Author: Viren Mohindra <viren.mohindra@gmail.com>
 Depiction: http://virenmohindra.github.io/depictions/Pokemon
 Name: Pokemon - Springy BootLogo
+
+Package: io.github.virenmohindra.prismatic-head
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
+Depends: com.aditkamath.springy
+Filename: ./debs/io.github.virenmohindra.prismatic-head_1.0_iphoneos-arm.deb
+Size: 24263326
+MD5sum: a6035758abc7ce630f2eb639a145cd0c
+SHA1: 381502b8befcef453e88950fcece3fe546906776
+SHA256: 8c02b434053b17fb5fed61e0c884844d61da1110de114705964abd6f0d462a14
+Section: Addons (Springy)
+Description: Animated respring theme for Springy. Credit: /u/PONCE54958
+Author: Viren Mohindra <viren.mohindra@gmail.com>
+Depiction: http://virenmohindra.github.io/depictions/Prismatic Head
+Name: Prismatic Head - Springy BootLogo
 
 Package: io.github.virenmohindra.pulse
 Version: 2.0
@@ -453,9 +581,9 @@ Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
 Depends: com.aditkamath.springy
 Filename: ./debs/io.github.virenmohindra.pulse_2.0_iphoneos-arm.deb
 Size: 1168182
-MD5sum: 6e710db85893756b3e226129e6ce0781
-SHA1: 97140a672756e1df35ba20ab471d4fa49a48d401
-SHA256: 78d164fc304b72341c5f08a487b39a36a7488b35baad62729db5d043eac1a56c
+MD5sum: 762220a4c3345b219090ca19a1b9f6d0
+SHA1: 357f85626a5edae5a3e226ebd8b06a379c88b1a5
+SHA256: 3f9b34401d71a06afb5566ec2781d7836a97dff2eeea37d3827d09573714e8cb
 Section: Addons (Springy)
 Description: Animated respring theme for Springy
 Author: Viren Mohindra <viren.mohindra@gmail.com>
@@ -469,9 +597,9 @@ Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
 Depends: com.aditkamath.springy
 Filename: ./debs/io.github.virenmohindra.rainbow-8_2.0_iphoneos-arm.deb
 Size: 313540
-MD5sum: 3bc15fd51c291227237f54a2c07d027e
-SHA1: 6b34ebdef136a94438c505d33e84319ed32ad986
-SHA256: 51a1757ec1d01d04e3bb23e6b0ad46ebebf213177bfdb0443a176809800696fe
+MD5sum: 09cb097439473a71e8dade065817c295
+SHA1: d29aae52f2903c45c8b66ac099b9f1d0e06dc164
+SHA256: 936ee2b56d7c1e7c363e62fc6a0a404c4c2861b0270cb6435062a0903b2caa4c
 Section: Addons (Springy)
 Description: Animated respring theme for Springy. Credit: /u/gabe-nick
 Author: Viren Mohindra <viren.mohindra@gmail.com>
@@ -485,9 +613,9 @@ Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
 Depends: com.aditkamath.springy
 Filename: ./debs/io.github.virenmohindra.rainy_2.0_iphoneos-arm.deb
 Size: 5127646
-MD5sum: 2333f22ea7dc7e8f720713cc7fc4b867
-SHA1: 34a83ca5bbc82a8ae0b45247d951eb7257601d2b
-SHA256: e43f1c7e06af69e31912f1fb62ae7476a1d4dd9766cf943c48276ead22c35ea1
+MD5sum: d5ad55facc37fffbbc34d5cdd6dca073
+SHA1: e115be4c39bd6a03ff2385eacf459696a50477a0
+SHA256: a7314a0b68687c5247d5ce7ab46ad03cedd55877cb3e51307e49b8272a411134
 Section: Addons (Springy)
 Description: Animated respring theme for Springy. Credit: /u/ohfuckitslit
 Author: Viren Mohindra <viren.mohindra@gmail.com>
@@ -501,9 +629,9 @@ Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
 Depends: com.aditkamath.springy
 Filename: ./debs/io.github.virenmohindra.rolling-circles_2.0_iphoneos-arm.deb
 Size: 4297702
-MD5sum: d7e5efdfec3545ca0d3f51f3d40e92d7
-SHA1: cc7e3dc229bb6262db5a67d541b7fd352e490618
-SHA256: 19720e5e6a99d7a4d3311651530a50d6d52cfcc4f992106244176374ad620ffc
+MD5sum: 35181b49204574470408420abf680e96
+SHA1: 9da8e6940d1d0fedf37b4a617a981dcf02cdf1cc
+SHA256: b61ea40fcdfeb040c2c0e89711076bbfc9cadbaf624c33e4bb580e7297cdfdd5
 Section: Addons (Springy)
 Description: Animated respring theme for Springy
 Author: Viren Mohindra <viren.mohindra@gmail.com>
@@ -517,9 +645,9 @@ Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
 Depends: com.aditkamath.springy
 Filename: ./debs/io.github.virenmohindra.routine_2.0_iphoneos-arm.deb
 Size: 5599302
-MD5sum: 1c232ab73331a5ddf4ec0fcdd63b8ab3
-SHA1: ebea4c062919b8a39bb72c7ec3042e3a3cd68b78
-SHA256: 6913f632c41a075988283b243188251dbb187d016022db60fd111caf1733b663
+MD5sum: a9ff68a084175e3c5cd8bd7eb3e068ae
+SHA1: 45bd3d660fa861e1601186462cb7f230dca25780
+SHA256: 616f044f8bfb41b694f90d899f8b783cc9a939093f923e515bc6dca8fc91a4b5
 Section: Addons (Springy)
 Description: Animated respring theme for Springy
 Author: Viren Mohindra <viren.mohindra@gmail.com>
@@ -533,9 +661,9 @@ Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
 Depends: com.aditkamath.springy
 Filename: ./debs/io.github.virenmohindra.sonic-running_2.0_iphoneos-arm.deb
 Size: 264870
-MD5sum: 09c7cb6dee829d03de0913b0e33907e2
-SHA1: 6d1ad557733e5520eedd0ae2b6b27d78ebec4cd9
-SHA256: 53142ec7f10847423d6978f41b67c09df11925badc93763c6033da05e233fddf
+MD5sum: 891db1f981d124741f81ba383f0e87d4
+SHA1: b7b4f12bcdc3d7480e88ced1793edd69e11332d3
+SHA256: 0ceb4e36a6adc79c40e9b522fbc94773a69425b511527e8025f9c3fad93b4b5e
 Section: Addons (Springy)
 Description: Animated respring theme for Springy. Credit: /u/CherryYums
 Author: Viren Mohindra <viren.mohindra@gmail.com>
@@ -549,9 +677,9 @@ Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
 Depends: com.aditkamath.springy
 Filename: ./debs/io.github.virenmohindra.soup_2.0_iphoneos-arm.deb
 Size: 2531792
-MD5sum: 6b2de962ea607eee95947e6285533c35
-SHA1: 4c28381a980f6802f39b58bb771e8576453437c3
-SHA256: 01e4a8a1df44ef905106bca8c95ea4ceb0511a17355004303b5e77e90158534b
+MD5sum: 9dcc2d2dc406653b427f46d98f2dbb8d
+SHA1: fc11a18f27b8dde9f749066a61f52b988b582126
+SHA256: f09886cb99c54d84e45650b1ee8904564bbe208844b444889b8acfafcb01f6d5
 Section: Addons (Springy)
 Description: Animated respring theme for Springy
 Author: Viren Mohindra <viren.mohindra@gmail.com>
@@ -565,9 +693,9 @@ Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
 Depends: com.aditkamath.springy
 Filename: ./debs/io.github.virenmohindra.spikey_2.0_iphoneos-arm.deb
 Size: 6630608
-MD5sum: 74089170ba70b6047b2d468976bf6535
-SHA1: d268f487cf0671713158416904744299d79c51fc
-SHA256: eb0abc998a843264039c1f6e998bf66d3ddda2892ce4f7e9cd84ca9f4c4722b6
+MD5sum: 9dc43287530d8289f59e1a64ef921822
+SHA1: 105659b16162ef5916f5c0572f9c32f382ab4417
+SHA256: 108644796f2b17068fc55e2290c574207272f4a1d00be15116b616088e08628b
 Section: Addons (Springy)
 Description: Animated respring theme for Springy
 Author: Viren Mohindra <viren.mohindra@gmail.com>
@@ -581,9 +709,9 @@ Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
 Depends: com.aditkamath.springy
 Filename: ./debs/io.github.virenmohindra.spinning-rings_2.0_iphoneos-arm.deb
 Size: 4338902
-MD5sum: e8d4f782af25427cc78488dc1ef9e43b
-SHA1: a6720d48afa02a07a476bc5b118c00ef39294254
-SHA256: 2269fa0aebf325e171ea6e9ad0ee45d79ca6a03bea00315a595670cbfbab0f41
+MD5sum: 862396498b6aa66ee3e6e00afc88a300
+SHA1: ef5910f2e1025fdfb53f139aac11794929342f4f
+SHA256: 19eb429b62c98a23551a93387af03e251c7eea528ad9ad5790aa493cc29800de
 Section: Addons (Springy)
 Description: Animated respring theme for Springy
 Author: Viren Mohindra <viren.mohindra@gmail.com>
@@ -597,9 +725,9 @@ Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
 Depends: com.aditkamath.springy
 Filename: ./debs/io.github.virenmohindra.sploosh_2.0_iphoneos-arm.deb
 Size: 2311362
-MD5sum: 62afb7f797ea4a89c8e610d3ff752df1
-SHA1: d57c9fc1bc8881dfc54a0e44230d148f12af792a
-SHA256: a8110771ba43b80df1f0fdd7f5d3c872bdaf6d4262ffdb485bf9770256cb98f7
+MD5sum: 50575dcbe0b9d1cbca4016a038177024
+SHA1: 9bca8775d3b791f6246aeb1c1ffb811f614677dd
+SHA256: 1cfdbe437f88cce3ee4960cd3d0d89ca1c1bf045bdf5c8775597a08579bd30dc
 Section: Addons (Springy)
 Description: Animated respring theme for Springy
 Author: Viren Mohindra <viren.mohindra@gmail.com>
@@ -613,9 +741,9 @@ Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
 Depends: com.aditkamath.springy
 Filename: ./debs/io.github.virenmohindra.stay-in-lane_2.0_iphoneos-arm.deb
 Size: 4858468
-MD5sum: de2a0a93d37c8e3302e7f54fa7196a06
-SHA1: fd0dab8b629279b8633e791cc5f174e4eb2023dc
-SHA256: ec2a0609897ba54101912ccdb2d78d3edc502e45bc5fe4dea8964a7793d8ac85
+MD5sum: 4ffa65f7fef5b4b756d14af9e6e9f368
+SHA1: 16e54cf8a3e9e59878678e5d2e367885d793abdd
+SHA256: 667960e5d7399808ec6b6f894466e18f6b1099c408a82a3eb0d15d25fc088356
 Section: Addons (Springy)
 Description: Animated respring theme for Springy
 Author: Viren Mohindra <viren.mohindra@gmail.com>
@@ -629,9 +757,9 @@ Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
 Depends: com.aditkamath.springy
 Filename: ./debs/io.github.virenmohindra.stranger-things_2.0_iphoneos-arm.deb
 Size: 3568518
-MD5sum: 121de846c6c038c9127c94c8b27812f0
-SHA1: 90a237eeed8fccb5d474c3b0c55c5c24703eff05
-SHA256: d2ab1b68e83db6e87531caa1cc132fb6acb354484f05a2dc41cbe142dd0caf7f
+MD5sum: d25e543ae7e316b8cd8121db06d069b0
+SHA1: fd1d9cb337b8256be683294ee5cdbf36f5f083e3
+SHA256: bfdde069301473b48155dbcba43aa06eb1095d34d812ae6c7ae274496d7a4f25
 Section: Addons (Springy)
 Description: Animated respring theme for Springy. Credit: /u/kingwill22
 Author: Viren Mohindra <viren.mohindra@gmail.com>
@@ -645,9 +773,9 @@ Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
 Depends: com.aditkamath.springy
 Filename: ./debs/io.github.virenmohindra.super-mario_2.0_iphoneos-arm.deb
 Size: 3506820
-MD5sum: 32e624a0cda8bbe66a9149d5b858bce7
-SHA1: 9e93bd310edaa2de06f604765e26c93fd9d8d5cf
-SHA256: 9f4fcc9a09b7bc66aa2bb1af80524bfd8f17b8905fe08d3422826bf8a92504be
+MD5sum: 60b4989046ca264466e983b7d5207f45
+SHA1: 4e74089208ec951584041428812e4139179f0898
+SHA256: 6086b088e0621dd3eb9aa41c2ab143869474a7cb48b8e26325b54ec9eb1e9be3
 Section: Addons (Springy)
 Description: Animated respring theme for Springy. Credit: /u/CherryYums
 Author: Viren Mohindra <viren.mohindra@gmail.com>
@@ -661,9 +789,9 @@ Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
 Depends: com.aditkamath.springy
 Filename: ./debs/io.github.virenmohindra.swimmer_2.0_iphoneos-arm.deb
 Size: 1573504
-MD5sum: 056acd3f8540cec8814a3cf65c5fb4d6
-SHA1: 7dc5eee85ac7be05fa56796b1b8d1450a1cea37b
-SHA256: 4556d78a68ad841efc7d41df06f3e8f635493ad995eb4bda8bb7c327f55f1d07
+MD5sum: a53c749d05104e053527f888d5b795d2
+SHA1: abf47a77c4d92364b6aeae0c8dcc2e7f60341d82
+SHA256: 09418e4bc9a5c5792ec98beae2efce632398a05ddb565b26ca3fd9bd886d9bb9
 Section: Addons (Springy)
 Description: Animated respring theme for Springy
 Author: Viren Mohindra <viren.mohindra@gmail.com>
@@ -676,10 +804,10 @@ Architecture: iphoneos-arm
 Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
 Depends: com.aditkamath.springy
 Filename: ./debs/io.github.virenmohindra.swish_3.0_iphoneos-arm.deb
-Size: 499300
-MD5sum: 04b970d6d6f9054132cc7c76a0200dd0
-SHA1: 7f9600589b50ff95832a4d1a25b3b9cd86754c22
-SHA256: 6cbf432f354aba95f6875f9a8fb7e19907ac4b51efee3acf19f5d8175e547224
+Size: 499310
+MD5sum: 9d3bd25a570db263108f59ccafb5cca9
+SHA1: 2b06574d0c521424fb49dee2eeecc3c0a0143183
+SHA256: f27917b8131d933d37beba2c504d5b2e2d3f1e91c4d27f7aff1784072d2535cf
 Section: Addons (Springy)
 Description: Animated respring theme for Springy
 Author: Viren Mohindra <viren.mohindra@gmail.com>
@@ -693,9 +821,9 @@ Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
 Depends: com.aditkamath.springy
 Filename: ./debs/io.github.virenmohindra.tesseract_2.0_iphoneos-arm.deb
 Size: 3522024
-MD5sum: 43567bb8372ca863f8ecb28cc99527e2
-SHA1: 51767c6753792fa58d80ffaff3c7fc55b8367fda
-SHA256: e373b11b35935d782c588a94f8ab7102378d32a4985ef775461226fa1750a3b9
+MD5sum: a4bc90873b782f3d81259d58389ad2f3
+SHA1: facaf8b942f0b91fab934bca99fa7718cf787a33
+SHA256: dfb3e464de6614cd005b30580309b297afa69fa6d2d9ac1d44457970f88e9536
 Section: Addons (Springy)
 Description: Animated respring theme for Springy
 Author: Viren Mohindra <viren.mohindra@gmail.com>
@@ -709,9 +837,9 @@ Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
 Depends: com.aditkamath.springy
 Filename: ./debs/io.github.virenmohindra.three-waves_2.0_iphoneos-arm.deb
 Size: 4415714
-MD5sum: ca622499c951b8e78fdb7a835de6ea8f
-SHA1: 9417e5ca7e4460fda40fa302bdf4eb2aea92b58f
-SHA256: 60a168d7779be54a71a6b9cd62e7866550676213e292c6f95069e8222bce0f5c
+MD5sum: 696831a6e452523ab3b305e835937b10
+SHA1: c5f24248a95009aca02417dce6e82f0789360ef2
+SHA256: 204a5f99417d3641ad9ea9b3a5a2d3ccc1362bedf6494f18cc6a185484d912c8
 Section: Addons (Springy)
 Description: Animated respring theme for Springy
 Author: Viren Mohindra <viren.mohindra@gmail.com>
@@ -725,9 +853,9 @@ Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
 Depends: com.aditkamath.springy
 Filename: ./debs/io.github.virenmohindra.time-and-money_2.0_iphoneos-arm.deb
 Size: 1404558
-MD5sum: dd7a35f48b588a35c1f53abdb947ed34
-SHA1: 471c721bd3baf7fabb8d1a16cfa7cfb3584fe45c
-SHA256: 9c34820a41de5b1e32bfbd1983230864bad9cfe87c85b5af8820eb8d6368f92b
+MD5sum: 78cb35ea2b640c2714f30a37d65a3ff3
+SHA1: 66d614209a81f8ee1be7de987a91e2723c09a68e
+SHA256: f3b968fb322316c582c956c53f1138fc33485c01cae5e744eb7d4f6d141d6938
 Section: Addons (Springy)
 Description: Animated respring theme for Springy
 Author: Viren Mohindra <viren.mohindra@gmail.com>
@@ -741,9 +869,9 @@ Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
 Depends: com.aditkamath.springy
 Filename: ./debs/io.github.virenmohindra.twisting-cubes_2.0_iphoneos-arm.deb
 Size: 24403780
-MD5sum: e6227dd4a515ca539395843573f4566b
-SHA1: 8bb463d9363adcb7331fd5c4bd9816b360b17fbc
-SHA256: 6ad2d20fe52a4516f78542d4fb2ed94ffeb9a4163bd7de4d289d608528f0742a
+MD5sum: 74a5defe2b7ca422a890eb5c33863985
+SHA1: 44acc5ffcaf92bb7c5841d74f0ae95e55a91350e
+SHA256: 5b7920d932dfc22c59d5f57bb6ea5870bab5cdb9457298c0a245603e539191c2
 Section: Addons (Springy)
 Description: Animated respring theme for Springy
 Author: Viren Mohindra <viren.mohindra@gmail.com>
@@ -757,9 +885,9 @@ Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
 Depends: com.aditkamath.springy
 Filename: ./debs/io.github.virenmohindra.upload_2.0_iphoneos-arm.deb
 Size: 979518
-MD5sum: 0f30ae5fc97eaff7bff5f681c5af3823
-SHA1: de2d70b9357efa62a07d7cf6b90f77a480e5b732
-SHA256: 33c5e4bed652eff358e6e02a9022a49b0145a91b327448d4c85022b75d12a71a
+MD5sum: 7f4405f16135e478ff7253b18ccd2dd3
+SHA1: 9714ff05b20a5019146fd7ac786df1287fa9417c
+SHA256: 70e0dea8d46be4c84d2d17913039e7e6ef4273a8b603b91197f2ccd98a004889
 Section: Addons (Springy)
 Description: Animated respring theme for Springy
 Author: Viren Mohindra <viren.mohindra@gmail.com>
@@ -773,14 +901,30 @@ Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
 Depends: com.aditkamath.springy
 Filename: ./debs/io.github.virenmohindra.waiting_2.0_iphoneos-arm.deb
 Size: 5712876
-MD5sum: 5d81b28595c00867a2d0477f13c538ac
-SHA1: 03ab30047074e53f9340128e9940bdcf73bf0e8f
-SHA256: 4e7b61b85f36ab5a1688a485b6ad04acbed62c6992d8f3164907e63693903092
+MD5sum: 2b4be275a528cc251ade74dfddb7daf9
+SHA1: 7e1c267052fad4644c40185b26b9e357eb3de8d8
+SHA256: 619510ac0e119ac26392f5f54f3218bed3c3386e9abe31433261051f7aca322f
 Section: Addons (Springy)
 Description: Animated respring theme for Springy
 Author: Viren Mohindra <viren.mohindra@gmail.com>
 Depiction: http://virenmohindra.github.io/depictions/Waiting
 Name: Waiting - Springy BootLogo
+
+Package: io.github.virenmohindra.weird-planet
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
+Depends: com.aditkamath.springy
+Filename: ./debs/io.github.virenmohindra.weird-planet_1.0_iphoneos-arm.deb
+Size: 37948070
+MD5sum: dd0350ab315d9a813eeb3bcccdea8d6d
+SHA1: d0885718e8bc416555a7afe22331a3b5fb1a7dcb
+SHA256: 255f4ca19f52fea9ea8e9cfefba97fe95c423f15f6640178b923c61c0181836d
+Section: Addons (Springy)
+Description: Animated respring theme for Springy. Credit: /u/PONCE54958
+Author: Viren Mohindra <viren.mohindra@gmail.com>
+Depiction: http://virenmohindra.github.io/depictions/Weird Planet
+Name: Weird Planet - Springy BootLogo
 
 Package: io.github.virenmohindra.world-swap
 Version: 2.0
@@ -789,9 +933,9 @@ Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
 Depends: com.aditkamath.springy
 Filename: ./debs/io.github.virenmohindra.world-swap_2.0_iphoneos-arm.deb
 Size: 2503382
-MD5sum: 237ba514d6a8968e31bccd047932dba6
-SHA1: 0b6baf7458c60a34a17cd8cf04ffa7d0d2ee2847
-SHA256: 722adca6b787cc0eb8352972b226074a0259851bc55c92a781ea7eccec5b7c96
+MD5sum: 5c1737094d765a3caf31cef0087441d3
+SHA1: f3693512462afc0887ed45e0cc9deb860260d263
+SHA256: 5d7a28fce1016db7ab019c5ad76f1c70c3a46d7a85f1131b696587f63ceba5b1
 Section: Addons (Springy)
 Description: Animated respring theme for Springy
 Author: Viren Mohindra <viren.mohindra@gmail.com>
@@ -805,9 +949,9 @@ Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
 Depends: com.aditkamath.springy
 Filename: ./debs/io.github.virenmohindra.yin-and-yang_2.0_iphoneos-arm.deb
 Size: 1372814
-MD5sum: c2199aa6b57122167bbbca86e677b671
-SHA1: 8cd722546707b5796ad7ace1a909a1037e35f7d9
-SHA256: e7ee77e424d3141e553edab398ee1eabd0ebf23fd42f2f0acae263256d2f8655
+MD5sum: 7238c98193e71a94833a1df97c313017
+SHA1: 825c1761eb9e51ee38b0d5bd6904e84cdc4a5273
+SHA256: 130751c5a91f85019dc026579d7db8b99422f4bc91bdfe5e9139eb53661f352f
 Section: Addons (Springy)
 Description: Animated respring theme for Springy
 Author: Viren Mohindra <viren.mohindra@gmail.com>
