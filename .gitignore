@@ -44,3 +44,6 @@ Temporary Items
 # sftp configuration file
 sftp-config.json
 .DS_Store
+
+# Uploading Projects file is of no use, compile deb and upload alone
+projects
