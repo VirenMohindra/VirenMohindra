@@ -1,3 +1,4 @@
-site @ http://virenmohindra.me/
+# Viren Mohindra Personal Site - http://virenmohindra.me/
 
-Copyright Viren Mohindra 2016 All Rights Reserved.
+- Includes Cydia automation for Animated Bootloop GIF's
+- Jekyll for blog (WIP) and creation of /depiction pages
