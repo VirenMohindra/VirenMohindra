@@ -2,6 +2,7 @@
 dpkg-deb -bZgzip projects/A\ Wave debs
 dpkg-deb -bZgzip projects/Alone debs
 dpkg-deb -bZgzip projects/Amalgamation debs
+dpkg-deb -bZgzip projects/Apple\ Glitch debs
 dpkg-deb -bZgzip projects/Bipolar\ Balls debs
 dpkg-deb -bZgzip projects/Black\ Hole debs
 dpkg-deb -bZgzip projects/Boo debs

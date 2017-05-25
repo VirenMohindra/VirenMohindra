@@ -46,6 +46,22 @@ Author: Viren Mohindra <viren.mohindra@gmail.com>
 Depiction: http://virenmohindra.github.io/depictions/Amalgamation
 Name: Amalgamation - Springy BootLogo
 
+Package: io.github.virenmohindra.apple-glitch
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
+Depends: com.aditkamath.springy
+Filename: ./debs/io.github.virenmohindra.apple-glitch_1.0_iphoneos-arm.deb
+Size: 4265336
+MD5sum: de52e11a9739441c8e16dcd7498cd6fa
+SHA1: 29b71079b5c59b0057bdf96d84ee597b5d4e945c
+SHA256: aceb117cff246aa3b885dee4022c33a414310a337e2e9d058cd2e0fb3d2fc891
+Section: Addons (Springy)
+Description: Animated respring theme for Springy.
+Author: Viren Mohindra <viren.mohindra@gmail.com>
+Depiction: http://virenmohindra.github.io/depictions/Apple Glitch
+Name: Apple Glitch - Springy BootLogo
+
 Package: io.github.virenmohindra.bipolar-balls
 Version: 2.0
 Architecture: iphoneos-arm

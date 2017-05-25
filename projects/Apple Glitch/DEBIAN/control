@@ -1,0 +1,10 @@
+Package: io.github.virenmohindra.apple-glitch
+Name: Apple Glitch - Springy BootLogo
+Depends: com.aditkamath.springy
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Animated respring theme for Springy.
+Depiction: http://virenmohindra.github.io/depictions/Apple Glitch
+Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
+Author: Viren Mohindra <viren.mohindra@gmail.com>
+Section: Addons (Springy)
