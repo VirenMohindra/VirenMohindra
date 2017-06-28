@@ -1,0 +1,10 @@
+Package: io.github.virenmohindra.ducky
+Name: Ducky - Springy BootLogo
+Depends: com.aditkamath.springy
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Animated respring theme for Springy. Requested through email.
+Depiction: http://virenmohindra.github.io/depictions/Ducky
+Maintainer: Viren Mohindra <viren.mohindra@gmail.com>
+Author: Viren Mohindra <viren.mohindra@gmail.com>
+Section: Addons (Springy)

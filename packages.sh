@@ -13,6 +13,7 @@ dpkg-deb -bZgzip projects/Crystal\ Ball debs
 dpkg-deb -bZgzip projects/Columns debs
 dpkg-deb -bZgzip projects/Complicated debs
 dpkg-deb -bZgzip projects/Donuts debs
+dpkg-deb -bZgzip projects/Ducky debs
 dpkg-deb -bZgzip projects/Echo debs
 dpkg-deb -bZgzip projects/Fall\ Leaves debs
 dpkg-deb -bZgzip projects/Flower debs
